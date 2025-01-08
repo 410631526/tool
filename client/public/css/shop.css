@@ -1,0 +1,275 @@
+.shop,
+.shop * {
+  box-sizing: border-box;
+}
+.shop {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  height: 1024px;
+  position: relative;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  overflow: hidden;
+}
+.image {
+  width: 1440px;
+  height: 320px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.button {
+  background: var(--gray-200, #e9ecef);
+  border-radius: 6px;
+  padding: 10px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 35px;
+  top: 251px;
+}
+.button2 {
+  color: var(--gray-800, #343a40);
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 18px;
+  font-weight: 600;
+  position: relative;
+}
+.gear {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 382px;
+  top: 570px;
+  overflow: visible;
+}
+.gear2 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 1230px;
+  top: 895px;
+  overflow: visible;
+}
+.gear3 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 1230px;
+  top: 575px;
+  overflow: visible;
+}
+.gear4 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 804px;
+  top: 895px;
+  overflow: visible;
+}
+.gear5 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 382px;
+  top: 895px;
+  overflow: visible;
+}
+.gear6 {
+  width: 24px;
+  height: 24px;
+  position: absolute;
+  left: 799px;
+  top: 570px;
+  overflow: visible;
+}
+.button3 {
+  background: #ebe5fc;
+  border-radius: 6px;
+  opacity: 0.55;
+  padding: 10px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1298px;
+  top: 15px;
+}
+.button4 {
+  color: var(--grays-gray, #8e8e93);
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 18px;
+  font-weight: 600;
+  position: relative;
+}
+.button5 {
+  background: #ebe5fc;
+  border-radius: 6px;
+  opacity: 0.55;
+  padding: 10px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1164px;
+  top: 15px;
+}
+.button6 {
+  background: #ebe5fc;
+  border-radius: 6px;
+  opacity: 0.55;
+  padding: 10px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1035px;
+  top: 15px;
+}
+.frame-1 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 25px;
+  top: 10px;
+}
+.div {
+  color: #ffffff;
+  text-align: right;
+  font-family: "IbmPlexMono-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+}
+.image-3 {
+  width: 273px;
+  height: 207px;
+  position: absolute;
+  left: 133px;
+  top: 353px;
+  object-fit: cover;
+}
+.image-4 {
+  width: 291px;
+  height: 207px;
+  position: absolute;
+  left: 133px;
+  top: 681px;
+  object-fit: cover;
+}
+.image-5 {
+  width: 310px;
+  height: 195px;
+  position: absolute;
+  left: 956px;
+  top: 365px;
+  object-fit: cover;
+}
+.image-6 {
+  width: 285px;
+  height: 195px;
+  position: absolute;
+  left: 536px;
+  top: 365px;
+  object-fit: cover;
+}
+.image-7 {
+  width: 310px;
+  height: 206px;
+  position: absolute;
+  left: 956px;
+  top: 686px;
+  object-fit: cover;
+}
+.price-900-quantity-40-location-danshui {
+  color: var(--gray-600, #6c757d);
+  text-align: left;
+  font-family: var(--lead-text-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--lead-text-regular-font-size, 21px);
+  line-height: var(--lead-text-regular-line-height, 36px);
+  font-weight: var(--lead-text-regular-font-weight, 400);
+  position: absolute;
+  left: 145px;
+  top: 902px;
+  width: 194px;
+}
+.price-300-quantity-50-location-taipel {
+  color: var(--gray-600, #6c757d);
+  text-align: left;
+  font-family: var(--lead-text-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--lead-text-regular-font-size, 21px);
+  line-height: var(--lead-text-regular-line-height, 36px);
+  font-weight: var(--lead-text-regular-font-weight, 400);
+  position: absolute;
+  left: 983px;
+  top: 891px;
+  width: 156px;
+}
+.price-240-quantity-60-location-danshui {
+  color: var(--gray-600, #6c757d);
+  text-align: left;
+  font-family: var(--lead-text-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--lead-text-regular-font-size, 21px);
+  line-height: var(--lead-text-regular-line-height, 36px);
+  font-weight: var(--lead-text-regular-font-weight, 400);
+  position: absolute;
+  left: 534px;
+  top: 562px;
+  width: 184px;
+}
+.price-600-quantity-35-location-taipel {
+  color: var(--gray-600, #6c757d);
+  text-align: left;
+  font-family: var(--lead-text-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--lead-text-regular-font-size, 21px);
+  line-height: var(--lead-text-regular-line-height, 36px);
+  font-weight: var(--lead-text-regular-font-weight, 400);
+  position: absolute;
+  left: 966px;
+  top: 562px;
+  width: 156px;
+}
+.price-100-quantity-15-location-danshui {
+  color: var(--gray-600, #6c757d);
+  text-align: left;
+  font-family: var(--lead-text-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--lead-text-regular-font-size, 21px);
+  line-height: var(--lead-text-regular-line-height, 36px);
+  font-weight: var(--lead-text-regular-font-weight, 400);
+  position: absolute;
+  left: 534px;
+  top: 899px;
+  width: 171px;
+}
+.price-450-quantity-25-location-taipel {
+  color: var(--gray-600, #6c757d);
+  text-align: left;
+  font-family: var(--lead-text-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--lead-text-regular-font-size, 21px);
+  line-height: var(--lead-text-regular-line-height, 36px);
+  font-weight: var(--lead-text-regular-font-weight, 400);
+  position: absolute;
+  left: 145px;
+  top: 570px;
+  width: 156px;
+}

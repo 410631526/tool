@@ -1,0 +1,218 @@
+.home,
+.home * {
+  box-sizing: border-box;
+}
+.home {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  height: 1024px;
+  position: relative;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.rectangle-1 {
+  background: #000000;
+  width: 1440px;
+  height: 56px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.image-1 {
+  width: 1440px;
+  height: 320px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.button {
+  background: var(--primary-light, #ebe5fc);
+  border-radius: 6px;
+  opacity: 0.55;
+  padding: 10px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1199px;
+  top: 9px;
+}
+.button2 {
+  color: var(--grays-gray, #8e8e93);
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 18px;
+  font-weight: 600;
+  position: relative;
+}
+.button3 {
+  background: var(--primary-light, #ebe5fc);
+  border-radius: 6px;
+  opacity: 0.55;
+  padding: 10px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1287px;
+  top: 9px;
+}
+.frame-1 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 25px;
+  top: 10px;
+}
+.div {
+  color: #ffffff;
+  text-align: right;
+  font-family: "IbmPlexMono-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+}
+.button4 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 35px;
+  top: 263px;
+}
+.button5 {
+  background: var(--gray-200, #e9ecef);
+  border-radius: 6px;
+  padding: 10px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.button6 {
+  color: var(--gray-800, #343a40);
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 18px;
+  font-weight: 600;
+  position: relative;
+}
+.button7 {
+  background: #ebe5fc;
+  border-radius: 6px;
+  opacity: 0.55;
+  padding: 10px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1105px;
+  top: 9px;
+}
+.image-2 {
+  width: 516px;
+  height: 367px;
+  position: absolute;
+  left: 72px;
+  top: 398px;
+  object-fit: cover;
+}
+.div2 {
+  color: var(--gray-800, #343a40);
+  text-align: left;
+  font-family: var(--bold-h2-heading-font-family, "Inter-Bold", sans-serif);
+  font-size: var(--bold-h2-heading-font-size, 32px);
+  font-weight: var(--bold-h2-heading-font-weight, 700);
+  position: absolute;
+  left: 636px;
+  top: 406px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-118 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 766px;
+  height: 180px;
+  position: absolute;
+  left: 61px;
+  top: 499px;
+}
+.div3 {
+  color: var(--gray-600, #6c757d);
+  text-align: left;
+  font-family: var(--lead-text-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--lead-text-regular-font-size, 21px);
+  line-height: var(--lead-text-regular-line-height, 36px);
+  font-weight: var(--lead-text-regular-font-weight, 400);
+  position: absolute;
+  left: 638px;
+  top: 467px;
+  width: 657px;
+}
+.rectangle-2 {
+  background: #000000;
+  width: 1440px;
+  height: 192px;
+  position: absolute;
+  left: 0px;
+  top: 832px;
+}
+.div4 {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--bold-h4-heading-font-family, "Inter-Bold", sans-serif);
+  font-size: var(--bold-h4-heading-font-size, 24px);
+  font-weight: var(--bold-h4-heading-font-weight, 700);
+  position: absolute;
+  left: 31px;
+  top: 862px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.frame-119 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1372px;
+  position: absolute;
+  left: 35px;
+  top: 891px;
+}
+.gmail-410631526-tku-edu-tw-phone-0912345678-address-151 {
+  color: var(--gray-600, #6c757d);
+  text-align: left;
+  font-family: var(--lead-text-regular-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--lead-text-regular-font-size, 21px);
+  line-height: var(--lead-text-regular-line-height, 36px);
+  font-weight: var(--lead-text-regular-font-weight, 400);
+  position: relative;
+  width: 1110px;
+}

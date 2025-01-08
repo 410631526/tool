@@ -1,0 +1,225 @@
+.edit,
+.edit * {
+  box-sizing: border-box;
+}
+.edit {
+  background: #ffffff;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  height: 1024px;
+  position: relative;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.rectangle-1 {
+  background: #000000;
+  width: 1440px;
+  height: 56px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.image {
+  width: 1440px;
+  height: 320px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.button {
+  background: var(--primary-light, #ebe5fc);
+  border-radius: 6px;
+  opacity: 0.55;
+  padding: 10px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1311px;
+  top: 9px;
+}
+.button2 {
+  color: var(--grays-gray, #8e8e93);
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 18px;
+  font-weight: 600;
+  position: relative;
+}
+.frame-1 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  left: 25px;
+  top: 10px;
+}
+.div {
+  color: #ffffff;
+  text-align: right;
+  font-family: "IbmPlexMono-Regular", sans-serif;
+  font-size: 24px;
+  line-height: 150%;
+  font-weight: 400;
+  position: relative;
+}
+.button3 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 35px;
+  top: 263px;
+}
+.button4 {
+  background: var(--gray-200, #e9ecef);
+  border-radius: 6px;
+  padding: 10px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.button5 {
+  color: var(--gray-800, #343a40);
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 18px;
+  font-weight: 600;
+  position: relative;
+}
+.button6 {
+  background: #ebe5fc;
+  border-radius: 6px;
+  opacity: 0.55;
+  padding: 10px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: absolute;
+  left: 1204px;
+  top: 9px;
+}
+.rectangle-12 {
+  background: #c2c2c2;
+  width: 363px;
+  height: 704px;
+  position: absolute;
+  left: 0px;
+  top: 320px;
+}
+.rectangle-13 {
+  background: #c2c2c2;
+  width: 363px;
+  height: 704px;
+  position: absolute;
+  left: 1078px;
+  top: 320px;
+}
+.rectangle-9 {
+  background: #f1f3f6;
+  border-radius: 8.08px;
+  width: 429.13px;
+  height: 50.49px;
+  position: absolute;
+  left: 482px;
+  top: 541.33px;
+}
+.price {
+  color: #555555;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16.1556px;
+  position: absolute;
+  left: 482px;
+  top: 507px;
+}
+.update-price-ex-123 {
+  color: #555555;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 14.1362px;
+  position: absolute;
+  left: 502px;
+  top: 555px;
+  width: 167px;
+}
+.rectangle-92 {
+  background: #f1f3f6;
+  border-radius: 8.08px;
+  width: 429.13px;
+  height: 50.49px;
+  position: absolute;
+  left: 482px;
+  top: 433.33px;
+}
+.name {
+  color: #555555;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 16.1556px;
+  position: absolute;
+  left: 482px;
+  top: 399px;
+}
+.update-name-ex-hammer {
+  color: #555555;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 14.1362px;
+  position: absolute;
+  left: 502px;
+  top: 447px;
+  width: 212px;
+}
+.button7 {
+  background: var(--red-600, #b02a37);
+  border-radius: 6px;
+  border: 1px solid var(--red-600, #b02a37);
+  padding: 16px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  width: 117px;
+  height: 66px;
+  position: absolute;
+  left: 781px;
+  top: 869px;
+}
+.button8 {
+  color: var(--default-white, #ffffff);
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  line-height: 18px;
+  font-weight: 600;
+  position: relative;
+}
+.button9 {
+  background: var(--gray-700, #495057);
+  border-radius: 6px;
+  padding: 16px 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  width: 293px;
+  height: 66px;
+  position: absolute;
+  left: 473px;
+  top: 869px;
+}
