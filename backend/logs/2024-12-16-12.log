@@ -1,0 +1,6 @@
+info: Dec-16-2024 12:28:41: 	listening on *:1526
+error: Dec-16-2024 12:29:11: 	error: cannt connet to mongoDB MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:27017
+info: Dec-16-2024 12:29:11: 	suscess: connet to mongoDB @mongodb://martin:martin0628@127.0.0.1:27017/410631526
+info: Dec-16-2024 12:33:57: 	listening on *:1526
+error: Dec-16-2024 12:33:57: 	error: cannt connet to mongoDB MongoServerError: Authentication failed.
+info: Dec-16-2024 12:33:57: 	suscess: connet to mongoDB @mongodb://martin:martin0628@127.0.0.1:27017/410631526

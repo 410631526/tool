@@ -1,0 +1,11 @@
+info: Dec-13-2024 21:07:08: 	listening on *:1526
+error: Dec-13-2024 21:07:09: 	error: cannt connet to mongoDB MongoServerError: Authentication failed.
+info: Dec-13-2024 21:07:09: 	suscess: connet to mongoDB @mongodb://martin:martin0000@127.0.0.1:27017/410631526
+info: Dec-13-2024 21:14:34: 	listening on *:1526
+error: Dec-13-2024 21:14:34: 	error: cannt connet to mongoDB MongoServerError: Authentication failed.
+info: Dec-13-2024 21:14:34: 	suscess: connet to mongoDB @mongodb://martin:martin0000@127.0.0.1:27017/410631526
+info: Dec-13-2024 21:17:30: 	listening on *:1526
+error: Dec-13-2024 21:17:30: 	error: cannt connet to mongoDB MongoServerError: Authentication failed.
+info: Dec-13-2024 21:17:30: 	suscess: connet to mongoDB @mongodb://martin:martin0000@127.0.0.1:27017/410631526
+info: Dec-13-2024 21:22:16: 	listening on *:1526
+info: Dec-13-2024 21:22:16: 	suscess: connet to mongoDB @mongodb://martin:martin0628@127.0.0.1:27017/410631526

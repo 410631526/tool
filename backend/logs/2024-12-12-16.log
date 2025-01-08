@@ -1,0 +1,9 @@
+info: Dec-12-2024 16:57:24: 	listening on *:2083
+error: Dec-12-2024 16:57:54: 	error: cannt connet to mongoDB MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:8974
+info: Dec-12-2024 16:57:54: 	suscess: connet to mongoDB @mongodb://martin:martin0000@127.0.0.1:8974/name
+info: Dec-12-2024 16:58:20: 	listening on *:2083
+error: Dec-12-2024 16:58:50: 	error: cannt connet to mongoDB MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:8974
+info: Dec-12-2024 16:58:50: 	suscess: connet to mongoDB @mongodb://martin:martin0000@127.0.0.1:8974/name
+info: Dec-12-2024 16:59:19: 	listening on *:2083
+error: Dec-12-2024 16:59:49: 	error: cannt connet to mongoDB MongooseServerSelectionError: connect ECONNREFUSED 127.0.0.1:8974
+info: Dec-12-2024 16:59:49: 	suscess: connet to mongoDB @mongodb://martin:martin0000@127.0.0.1:8974/name
